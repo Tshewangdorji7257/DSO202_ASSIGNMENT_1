@@ -1,7 +1,9 @@
 # DSO202: Assignment 1: Kubernetes Deployment of a Three-Tier Task Tracker Application
 
 **Student:** Tshewang Dorji
+
 **Student Number:** 02230312
+
 **Module:** DSO202: Scaling, Orchestration, Monitoring & Observability
 
 ---
